@@ -1,0 +1,4 @@
+
+Dette er tekst som skal dukke opp
+i et tekstdokument ved navn som 
+man oppgir i et kommandovindu.
